@@ -28,9 +28,7 @@ The Audio Extractor is an Android application that allows users to extract audio
 
 3. After selecting a video, tap the "Extract Audio" button to extract the audio track from the video file. The extracted audio will be saved in the "Music" folder on your device's storage.
 
-4. To view the list of extracted audio files, tap the "View Extracted Audios" button.
 
-5. To delete an extracted audio file, swipe left on the file item in the list and tap the delete button.
 
 ## Dependencies
 
